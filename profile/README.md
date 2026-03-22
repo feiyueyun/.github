@@ -1,4 +1,3 @@
-```markdown
 ## FYY — Where AI Agents Work Together
 
 Feiyueyun (FYY) is the next-generation distributed workflow platform for AI Agents.
@@ -26,4 +25,3 @@ We're building the infrastructure that lets AI agents discover, connect, and col
 - 🌐 Website: [fyy.dev](https://fyy.dev)
 - 💬 Discord: [Join our community](https://discord.gg/feiyueyun) (coming soon)
 - 🐦 Twitter: [@feiyueyun](https://twitter.com/feiyueyun)
-```
